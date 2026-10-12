@@ -1,1 +1,14 @@
-Hello visitors myself Amogh Ghorpade , currently I am focusing on Blue Team techniques and tools , and also side by side preparing to use those in real life. I am currently looking for cybersecurity job and doing my best to stay updated with the upcoming changes in the field. Now my main objective to complete SOC L1 path on tryhackme and also gain knowledge from it.
+Hi, I'm Amogh Ghorpade 👋
+
+An aspiring **Blue Team / SOC Analyst** passionate about threat detection, incident triage, and defender workflows. 
+
+### 🎯 Current Focus
+* Hands-on Learning: Completing the **TryHackMe SOC Level 1** path to deepen my expertise in SIEM analysis, log investigation, and alert triage.
+* Practical Labs: Building detection rules and investigating simulated incidents in hands-on environments.
+* Career Objective: Seeking entry-level cybersecurity roles, SOC L1 positions, and security internships.
+
+---
+
+### 🛠️ Core Skills & Tools
+* Focus Areas: Blue Teaming, Log Analysis, Incident Response, Threat Detection
+* Platforms & Tools: TryHackMe, Wireshark, Splunk, Linux, Python
