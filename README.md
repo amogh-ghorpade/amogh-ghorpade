@@ -17,4 +17,4 @@ Fresh B.E. (Electronics & Telecommunications) graduate from Mumbai, building a c
 
 IT Support / Service Desk L1 / Desktop Support and SOC Analyst L1 roles in Mumbai.
 
-Connect: [LinkedIn](https://linkedin.com)
+Connect: [LinkedIn](https://linkedin.com/in/amogh-ghorpade-81ba391ab)
